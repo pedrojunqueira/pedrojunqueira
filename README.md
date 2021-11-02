@@ -3,15 +3,15 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pedrojunqueira" alt="pedrojunqueira" /> </p>
 
-- 🔭 I’m currently working on [Getting Azure certifications](https://docs.microsoft.com/en-us/learn/certifications/)
+- 🔭 I’m currently working on Improving my Python Developer Skills
 
-- 🌱 I’m currently learning **Power BI, SQL, FAST API**
+- 🌱 I’m currently learning **SQL DAX Python Web Frameworks and DevOps **
 
-- 👨‍💻 All of my projects are available at [https://www.gitshowcase.com/pedrojunqueira](https://www.gitshowcase.com/pedrojunqueira)
+- 👨‍💻 All of my projects are available at [pedrojunqueira.net](https://pedrojunqueira.net)
 
 - 📝 I occasionally write articles on [https://pedrojunqueira.github.io/blog](https://pedrojunqueira.github.io/blog)
 
-- 💬 Ask me about **python, Power BI, Azure**
+- 💬 Ask me about **Python, Power BI, Azure data products**
 
 - 📫 How to reach me **pedrocj@gmail.com**
 
