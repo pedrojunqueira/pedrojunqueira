@@ -3,13 +3,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pedrojunqueira" alt="pedrojunqueira" /> </p>
 
-- 🔭 I’m currently working on Improving my Python Developer Skills
+- 🔭 I’m currently working on Improving my Software Developer Skills
 
-- 🌱 I’m currently learning **Python Web Frameworks and DevOps**
+- 🌱 I’m currently learning **Python Web Frameworks, VueJS and DevOps**
 
-- 👨‍💻 All of my projects are available at [pedrojunqueira.net](https://pedrojunqueira.net)
-
-- 📝 I occasionally write articles on [https://pedrojunqueira.github.io/blog](https://pedrojunqueira.github.io/blog)
+- 📝 I very occasionally write articles on [https://pedrojunqueira.github.io/blog](https://pedrojunqueira.github.io/blog)
 
 - 💬 Ask me about **Python, Power BI, DAX, SQL and Azure data products**
 
