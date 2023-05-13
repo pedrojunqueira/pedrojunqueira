@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Pedro</h1>
-<h3 align="center">A Data Infra-Structure solution builder</h3>
+<h3 align="center">Data Architect and Software Engineer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pedrojunqueira" alt="pedrojunqueira" /> </p>
 
-- 🔭 I’m currently working on Improving my Software Developer Skills
+- 🔭 I’m currently working on Improving my Software and Data Engineer Skills
 
-- 🌱 I’m currently learning **Python Web Frameworks, VueJS and DevOps**
+- 🌱 I’m currently learning **Advanced Python, Spark, Native Cloud Development and DevOps**
 
 - 📝 I very occasionally write articles on [https://pedrojunqueira.github.io/blog](https://pedrojunqueira.github.io/blog)
 
-- 💬 Ask me about **Python, Power BI, DAX, SQL and Azure data products**
+- 💬 Ask me about **Python, SQL and Azure data products**
 
 - 📫 How to reach me **pedrocj@gmail.com**
 
